@@ -1,0 +1,14 @@
+{
+    "development": {
+      "db": "mongodb://localhost/test",
+      "baseURL": "http://localhost:3001"
+    },
+    "staging": {
+        "db": "mongodb://localhost/test",
+        "baseURL": "http://localhost:3001"
+    },
+    "production": {
+        "db": "mongodb://localhost/test",
+        "baseURL": "http://localhost:3001"
+    }
+  }

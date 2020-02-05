@@ -1,1 +1,1 @@
-export {default as ConactCtrl} from './conactCtrl';
+export {default as ClassCtrl} from './classCtrl';
