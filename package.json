@@ -1,11 +1,9 @@
 {
-  "name": "my-resume-backend",
+  "name": "Node test",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "ajv": "^6.10.2",
-    "ajv-errors": "^1.0.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
@@ -14,7 +12,6 @@
     "joi": "^14.3.1",
     "lodash": "^4.17.15",
     "mongoose": "^5.8.11",
-    "nodemailer": "^6.3.0",
     "nodemon": "^1.19.2"
   },
   "devDependencies": {
